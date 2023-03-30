@@ -37,7 +37,18 @@ $applist = @(
   "D5EA27B7.Duolingo-LearnLanguagesforFree",         # Duolingo
   "Microsoft.NetworkSpeedTest",                      # Network Speed Test
   "Microsoft.BingNews",                              # Bing News
-  "Microsoft.Office.Sway"                            # Office Sway
+  "Microsoft.Office.Sway",                           # Office Sway
+  "Microsoft.BingWeather",                           # MSN Weather
+  "Microsoft.SkypeApp",                              # SkypeApp
+  "2FE3CB00.PicsArt-PhotoStudio",                    # Picsart - Photo Studio
+  "6Wunderkinder.Wunderlist",                        # Wunderlist : To do List
+  "Flipboard.Flipboard",                             # Flipboard
+  "Microsoft.BingTranslator",                        # Bing Translator
+  "Microsoft.FreshPaint",                            # Fresh Paint
+  "Microsoft.People",                                # MS People
+  "Microsoft.549981C3F5F10",                         # Cortana
+  "Microsoft.MicrosoftEdge",                         # MS Edge
+  "Microsoft.MicrosoftEdge.Stable"                   # MS Edge Stable
 )
 
 foreach ($app in $applist) {
