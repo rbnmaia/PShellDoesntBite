@@ -1,6 +1,5 @@
 # PShellDoesntBite
-PowerShell Scripting
 
-Random Pshell scripts from v6 for multipurposes, the goal of the repository is to be a compilation over time.
+PowerShell all the things!!
 
-Sometimes I come up with some idea that can be scripted or automated and publish here.
+Sysadmin pwsh v5/6/7 scripts for multipurposes, the main goal is to create a compilation over time.
